@@ -693,6 +693,10 @@ footer>p{
 
 @media screen and (max-width: 769px){
 
+    body{
+        overflow-x: hidden;
+    }
+    
     nav{
         padding: 10px 20px 5px;
     }
